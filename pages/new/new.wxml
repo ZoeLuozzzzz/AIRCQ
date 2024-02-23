@@ -1,0 +1,3 @@
+<!--pages/new/new.wxml-->
+<text>你好，我是新页面</text>
+<button bind:tap="gotonext" class="yellow">外送</button>
